@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Form — 3D Anatomical Curve Studio",
+  "description": "Interactive 3D anatomical figure sculpting studio featuring realistic subsurface skin shaders, parametric curve controls, and studio lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
